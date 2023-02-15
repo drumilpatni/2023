@@ -2,9 +2,9 @@
 *
 * ---------------------------------------------------------------------------
 *
-* Template : Blue - A One-Page HTML Portfolio/Business Template
-* Author : Muhammad Morshd
-* Author URI : http://morsheds.com
+* Template : Web
+* Author : Drumil Patni
+* Author URI :
 *
 * --------------------------------------------------------------------------- 
 *
@@ -78,7 +78,7 @@ main > section {
 }
 
 .bg-blue {
-    background-color: #009B4D;
+    background-color: #69101b;
 }
 
 /* Sweep To Right */
@@ -148,7 +148,7 @@ main > section {
 }
 
 .btn-effect:hover, .btn-effect:focus, .btn-effect:active {
-	color: #FFCC00;
+	color: #69101b;
 }
 
 .btn-effect:hover:before, .btn-effect:focus:before, .btn-effect:active:before {
